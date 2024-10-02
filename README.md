@@ -3,12 +3,7 @@
 
 <div>
     <img src="./images/front.png" 
-         style="width: 500px;
-                border-top-left-radius : 15px;
-                border-top-right-radius : 15px;
-                border-bottom-right-radius : 15px;
-                border-bottom-left-radius : 15px
-                ">
+         style="width: 500px;">
 </div>
 
 <br/>
@@ -26,12 +21,7 @@
 이 경우 A등급을 받기 위해서는 다음 2회고사에서 100~70점 범위 내의 점수를 취득해야 한다.
 <div>
     <img src="./images/example.png" 
-         style="width: 500px;
-                border-top-left-radius : 15px;
-                border-top-right-radius : 15px;
-                border-bottom-right-radius : 15px;
-                border-bottom-left-radius : 15px
-                ">
+         style="width: 500px;">
 </div>
 
 <br/>
@@ -39,12 +29,7 @@
 ## 사용된 부품
 <div>
     <img src="./images/inside.png" 
-         style="width: 500px;
-                border-top-left-radius : 15px;
-                border-top-right-radius : 15px;
-                border-bottom-right-radius : 15px;
-                border-bottom-left-radius : 15px
-                ">
+         style="width: 500px;">
 </div>
 
 
