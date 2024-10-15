@@ -2,7 +2,7 @@
 이미 취득한 1회고사와 수행평가의 점수를 입력하면 마지막 취득하게 될 2회고사의 점수에 따라 받을 수 있는 등급을 한번에 구할 수 있다.
 
 <div>
-    <img src="./images/front.png" 
+    <img src="./images/front.jpg" 
          style="width: 500px;">
 </div>
 
@@ -21,7 +21,7 @@
 아래의 결과는 1회고사에 100점을 취득하고 수행평가를 100점을 취득하였을때의 계산 결과이다.  
 이 경우 A등급을 받기 위해서는 다음 2회고사에서 100~70점 범위 내의 점수를 취득해야 한다.
 <div>
-    <img src="./images/example.png" 
+    <img src="./images/example.jpg" 
          style="width: 500px;">
 </div>
 
@@ -29,7 +29,7 @@
 
 ## 사용된 부품
 <div>
-    <img src="./images/inside.png" 
+    <img src="./images/inside.jpg" 
          style="width: 500px;">
 </div>
 
